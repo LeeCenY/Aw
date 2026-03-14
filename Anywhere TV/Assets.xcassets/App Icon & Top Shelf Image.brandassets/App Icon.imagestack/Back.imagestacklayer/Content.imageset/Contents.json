@@ -1,12 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "background.svg",
+      "filename" : "Back@1x.png",
       "idiom" : "tv",
       "scale" : "1x"
     },
     {
-      "filename" : "background 1.svg",
+      "filename" : "Back@2x.png",
       "idiom" : "tv",
       "scale" : "2x"
     }
