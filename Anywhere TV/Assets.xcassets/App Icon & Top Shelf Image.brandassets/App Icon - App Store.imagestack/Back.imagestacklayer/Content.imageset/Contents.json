@@ -2,7 +2,13 @@
   "images" : [
     {
       "filename" : "background.svg",
-      "idiom" : "tv"
+      "idiom" : "tv",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "background 1.svg",
+      "idiom" : "tv",
+      "scale" : "2x"
     }
   ],
   "info" : {
